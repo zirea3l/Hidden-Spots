@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Android/iOS builds (if using eject)
+android/
+ios/
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
