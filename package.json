@@ -1,0 +1,13 @@
+{
+    "name": "hidden-spots",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+    "start": "concurrently \"npm run start --prefix frontend\" \"npm run dev --prefix backend\"",
+    "start:frontend": "npm start --prefix frontend",
+    "start:backend": "npm run dev --prefix backend"
+    },
+    "devDependencies": {
+    "concurrently": "^8.2.0"
+    }
+}
