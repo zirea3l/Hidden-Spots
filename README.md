@@ -35,14 +35,14 @@ Hidden Spots is a fullstack mobile app that allows users to discover and share m
 
 ## 📦 Installation
 
-### 1. Clone the repository
+### 🧾 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hidden-spots.git
+git clone https://github.com/zirea3l/hidden-spots.git
 cd hidden-spots
 ```
 
-### 2. Setup the Backend
+### 🔧 2. Setup the Backend
 
 ```bash
 cd backend
@@ -70,3 +70,24 @@ Then start the backend server:
 ```bash
 npm run dev
 ```
+
+### 📱 3. Setup the Frontend (Expo)
+
+```bash
+cd ../frontend
+npm install
+```
+
+Update `constants/config.js`:
+
+```bash
+export const API_BASE_URL = 'http://<your-ip>:5000/api'; // Replace <your-ip> with local IP
+```
+
+Then run the app:
+
+```bash
+npx expo start
+```
+
+
