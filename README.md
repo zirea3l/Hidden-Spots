@@ -45,7 +45,7 @@ cd hidden-spots
 ### 🔧 2. Setup the Backend
 
 ```bash
-cd backend
+cd hidden-spots-backend
 npm install
 ```
 
@@ -74,7 +74,7 @@ npm run dev
 ### 📱 3. Setup the Frontend (Expo)
 
 ```bash
-cd ../frontend
+cd ../hidden-spots-app
 npm install
 ```
 
