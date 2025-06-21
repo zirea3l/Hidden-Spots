@@ -35,7 +35,7 @@ Hidden Spots is a fullstack mobile app that allows users to discover and share m
 
 ## Folder Structure
 
-hidden-spots/
+```hidden-spots/
 ├── hidden-spots-backend/
 │   ├── controllers/
 │   ├── routes/
@@ -56,6 +56,7 @@ hidden-spots/
 
 ├── .gitignore
 └── README.md
+```
 
 
 ## 📦 Installation
