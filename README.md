@@ -43,4 +43,3 @@ cd hidden-spots
 
 ---
 
-### 2. Setup the Backend
