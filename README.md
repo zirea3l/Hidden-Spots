@@ -40,6 +40,10 @@ Hidden Spots is a fullstack mobile app that allows users to discover and share m
 ```bash
 git clone https://github.com/your-username/hidden-spots.git
 cd hidden-spots
+```
 
----
+### 2. Setup the Backend
+
+cd backend
+npm install
 
