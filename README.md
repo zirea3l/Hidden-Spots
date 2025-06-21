@@ -58,6 +58,7 @@ Hidden Spots is a fullstack mobile app that allows users to discover and share m
 └── README.md
 ```
 
+---
 
 ## 📦 Installation
 
